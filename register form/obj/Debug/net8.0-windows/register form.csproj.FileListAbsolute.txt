@@ -1,0 +1,19 @@
+E:\engineering\8th sem\.net\forms\register form\obj\Debug\net8.0-windows\LoginForm.Login.resources
+E:\engineering\8th sem\.net\forms\register form\obj\Debug\net8.0-windows\register_form.Register.resources
+E:\engineering\8th sem\.net\forms\register form\obj\Debug\net8.0-windows\register form.csproj.GenerateResource.cache
+E:\engineering\8th sem\.net\forms\register form\obj\Debug\net8.0-windows\register form.GeneratedMSBuildEditorConfig.editorconfig
+E:\engineering\8th sem\.net\forms\register form\obj\Debug\net8.0-windows\register form.AssemblyInfoInputs.cache
+E:\engineering\8th sem\.net\forms\register form\obj\Debug\net8.0-windows\register form.AssemblyInfo.cs
+E:\engineering\8th sem\.net\forms\register form\obj\Debug\net8.0-windows\register form.csproj.CoreCompileInputs.cache
+E:\engineering\8th sem\.net\forms\register form\bin\Debug\net8.0-windows\register form.exe
+E:\engineering\8th sem\.net\forms\register form\bin\Debug\net8.0-windows\register form.deps.json
+E:\engineering\8th sem\.net\forms\register form\bin\Debug\net8.0-windows\register form.runtimeconfig.json
+E:\engineering\8th sem\.net\forms\register form\bin\Debug\net8.0-windows\register form.dll
+E:\engineering\8th sem\.net\forms\register form\bin\Debug\net8.0-windows\register form.pdb
+E:\engineering\8th sem\.net\forms\register form\obj\Debug\net8.0-windows\register form.dll
+E:\engineering\8th sem\.net\forms\register form\obj\Debug\net8.0-windows\refint\register form.dll
+E:\engineering\8th sem\.net\forms\register form\obj\Debug\net8.0-windows\register form.pdb
+E:\engineering\8th sem\.net\forms\register form\obj\Debug\net8.0-windows\register form.genruntimeconfig.cache
+E:\engineering\8th sem\.net\forms\register form\obj\Debug\net8.0-windows\ref\register form.dll
+E:\engineering\8th sem\.net\forms\register form\obj\Debug\net8.0-windows\register_form.Form1.resources
+E:\engineering\8th sem\.net\forms\register form\obj\Debug\net8.0-windows\simp.simplecalculator.resources
